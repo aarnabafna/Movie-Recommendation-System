@@ -1,0 +1,6 @@
+streamlit
+pandas
+difflib
+requests
+scikit-learn
+matplotlib
